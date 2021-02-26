@@ -187,7 +187,7 @@
 > > `for`문 실행 전 `i`는 선언 되지 않는다.
 <br>
 
-[예제](../../src/com/study/class02/chapter02/GuGuFor.java)
+[예제](../../com/study/class02/chapter02/GuGuFor.java)
 
 <br>
 
@@ -204,7 +204,7 @@
 > > `while`문 실행 전 `i`는 0
 > > `while`문 실행 후 `i`는 10 
 <br>
-[예제](../../src/com/study/class02/chapter02/GuguWhile.java)
+[[예제 코드]](../../com/study/class02/chapter02/GuguWhile.java)
 
 <br>
 
@@ -218,4 +218,4 @@
 > ```
 > 일단 조건없이 `do`뒤의 중괄호 `{}`안의 내용을 한번 실행한다.<br>
 > 그 후 `while`조건이 `true`일때 반복한다.<br>
-[예제](../../src/com/study/class02/chapter02/GuguWhile.java)
+[[예제 코드]](../../com/study/class02/chapter02/GuguWhile.java)

@@ -28,7 +28,7 @@ public class JavaClass{
     }
 }
 ```
-[[예제]](../../src/com/study/class02/Chapter03/Human.java)
+[[예제 코드]](../../com/study/class02/Chapter03/Human.java)
 <br><br>
 ## **제어자**
 제어자는 크게 두가지로 나뉜다.
@@ -65,20 +65,20 @@ public class JavaClass{
 >
 > ### `private`
 > > 같은 클래스 내에서만 접근이 가능
-> [[예제]](../../src/com/study/class02/Chapter03/accesable/child_t/GrandChild.java)
+> [[예제 코드]](../../com/study/class02/Chapter03/accesable/child_t/GrandChild.java)
 >
 > ### `default`
 > > 같은 패키지 내에서만 접근이 가능
-> [[예제]](../../src/com/study/class02/Chapter03/accesable/child_s/GrandChild.java)
+> [[예제 코드]](../../com/study/class02/Chapter03/accesable/child_s/GrandChild.java)
 > 
 > ### `public`
 > > 접근 제한이 전혀 없다.
-> [[예제]](../../src/com/study/class02/Chapter03/accesable/child_f/GrandChild.java)
+> [[예제 코드]](../../com/study/class02/Chapter03/accesable/child_f/GrandChild.java)
 > 
 > ### `protected`
 > > 같은 패키지 내에서, 그리고 다른 패키지의 자손클래스에서 접근이 가능<br>
-> [[예제_01]](../../src/com/study/class02/Chapter03/accesable/child_ff/GrandChild.java), 
-> [[예제_02]](../../src/com/study/class02/Chapter03/accesable/Acc_top.java)
+> [[예제_01]](../../com/study/class02/Chapter03/accesable/child_ff/GrandChild.java), 
+> [[예제_02]](../../com/study/class02/Chapter03/accesable/Acc_top.java)
 > 
 > ![](../img/class02/chapter03/OOP_modifier_access_modifier.png)
 > 

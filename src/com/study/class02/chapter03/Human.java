@@ -2,7 +2,7 @@ package com.study.class02.chapter03;
 
 public class Human{
 	{
-		
+		//초기화 블록
 	}
     static int lag  = 2;
     static int arm  = 2;
