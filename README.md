@@ -50,8 +50,7 @@
 
 ### Back- end / JAVA
 
-> ### [Chapter 01.](./src/document/class02/Chapter_01.md)
->
+### [Chapter 01.](./src/document/class02/Chapter_01.md)
 > - **자바에 대하여**
 >   - 역사
 >   - 컴파일
@@ -62,8 +61,7 @@
 
 <br>
 
-> ### [Chapter 02.](./src/document/class02/Chapter_02.md)
->
+### [Chapter 02.](./src/document/class02/Chapter_02.md)
 > - **변수**
 > - **데이터 타입**
 >   - `byte`, `short`, `int`, `long`, `float`, `double`
@@ -80,7 +78,7 @@
 
 <br>
 
-> ### [Chapter 03.](./src/document/class02/Chapter_03.md)
+### [Chapter 03.](./src/document/class02/Chapter_03.md)
 > - **클레스(class)**
 >   - 제어자
 >       - static
@@ -97,7 +95,13 @@
 
 <br>
 
-> ### Chapter 04.
+### Chapter 04.
+> -**배열(Array)**
+> 
+
+<br>
+
+### Chapter 04.
 > - **함수**
 >   - 리턴타입
 >   - public static void **main()**{ ... }
