@@ -89,31 +89,31 @@
 >        	- protected
 >       	- private
 >           - static
-> - 상속
-> - 추상클레스
-> - 인터페이스
 
 <br>
 
-### Chapter 04.
+### [Chapter 04.](./src/document/class02/Chapter_04.md)
 > -**배열(Array)**
-> 
+>   - 1차원 배열
+>   - 2차원 배열
+>   - 참조변수
 
 <br>
 
-### Chapter 04.
+### Chapter 05.
 > - **함수**
 >   - 리턴타입
 >   - public static void **main()**{ ... }
 
 <br>
 
-> ### Chapter 05.
+> ### Chapter 06.
 >
 > - **API(라이브러리)**
 >   - 개념
 >   - 기본 라이브러리
 >   - 사용방법
+> 
 > - **기본클래스**
 >   - String
 >   - Collaction(Array)
