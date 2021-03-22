@@ -19,6 +19,10 @@
 > - eclipce
 > - `Hello World`출력
 
+### 기타
+> - [`Git`설치](./src/document/class01/Git.md)
+> - [간단 `Git`사용법](./src/document/class01/UseGit.md)
+
 <br>
 
 ### [개념 정리 ](./src/document/class01/DeveloperMind.md)

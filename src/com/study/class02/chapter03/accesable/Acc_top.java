@@ -14,6 +14,6 @@ public class Acc_top {
          * 15번째 줄을 주석처리하면 컴파일에러가 발생하지않고 14번째줄만 정상출력된다.
          */
         System.out.println(FirstChild.role);
-        System.out.println(FourthChild.role);
+//        System.out.println(FourthChild.role);
     }
 }
