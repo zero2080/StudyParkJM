@@ -17,4 +17,12 @@ public class Person{
     public String toString(){
         return "name="+name+", age="+age+", weight="+weight+", height="+height;
     }
+
+    public int add(int i, int j ){
+        return i+j;
+    }
+
+    public void print(){
+        System.out.println("hahahah");
+    }
 }
