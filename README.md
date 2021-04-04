@@ -134,12 +134,12 @@
 > - DB 종류
 >   - RDBMS
 >   - NoSQL
-> - Oracle
->   - Docker Container 설치
+> - MySQL
+>   - MySQL 설치
 >   - 계정 생성
 >   - 권한 설정
 > - DB Client
->   - SQL Developer 설치
+>   - Work Banch 설치
 >   - 접속설정
 
 <br>
